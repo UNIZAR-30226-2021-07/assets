@@ -1,31 +1,31 @@
 [
     {
-        "name": "blue",
+        "name": "Azul",
         "image": "boards/blue.svg",
         "cost": 0,
     },
     {
-        "name": "green",
+        "name": "Verde",
         "image": "boards/green.svg",
         "cost": 0,
     },
     {
-        "name": "red",
+        "name": "Rojo",
         "image": "boards/red.svg",
         "cost": 20,
     },
     {
-        "name": "brown",
+        "name": "Marrón",
         "image": "boards/brown.svg",
         "cost": 75,
     },
     {
-        "name": "purple",
+        "name": "Morado",
         "image": "boards/purple.svg",
         "cost": 150,
     },
     {
-        "name": "orange",
+        "name": "Naranja",
         "image": "boards/orange.svg",
         "cost": 300,
     },
