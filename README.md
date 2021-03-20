@@ -1,12 +1,13 @@
 # Assets
 
-Ficheros con datos y recursos comunes para los clientes de gatovid.
+Ficheros con datos y recursos comunes para los clientes de gatovid y su
+comunicación con el backend.
 
 Este repositorio debería añadirse como un submódulo en git para que se mantenga
 la misma estructura en todos los clientes.
 
 Se añade a continuación un tutorial rápido sobre cómo usar los submódulos de
-Git:
+Git, que son simplemente repositorios dentro de repositorios:
 
 ## Añadir submódulo
 
