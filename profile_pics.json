@@ -1,0 +1,32 @@
+[
+    {
+        "name": "blue",
+        "image": "profile_pics/blue.svg",
+        "cost": 0,
+    },
+    {
+        "name": "green",
+        "image": "profile_pics/green.svg",
+        "cost": 0,
+    },
+    {
+        "name": "red",
+        "image": "profile_pics/red.svg",
+        "cost": 20,
+    },
+    {
+        "name": "brown",
+        "image": "profile_pics/brown.svg",
+        "cost": 75,
+    },
+    {
+        "name": "purple",
+        "image": "profile_pics/purple.svg",
+        "cost": 150,
+    },
+    {
+        "name": "orange",
+        "image": "profile_pics/orange.svg",
+        "cost": 300,
+    },
+]

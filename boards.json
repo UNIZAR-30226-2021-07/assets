@@ -1,0 +1,32 @@
+[
+    {
+        "name": "blue",
+        "image": "boards/blue.svg",
+        "cost": 0,
+    },
+    {
+        "name": "green",
+        "image": "boards/green.svg",
+        "cost": 0,
+    },
+    {
+        "name": "red",
+        "image": "boards/red.svg",
+        "cost": 20,
+    },
+    {
+        "name": "brown",
+        "image": "boards/brown.svg",
+        "cost": 75,
+    },
+    {
+        "name": "purple",
+        "image": "boards/purple.svg",
+        "cost": 150,
+    },
+    {
+        "name": "orange",
+        "image": "boards/orange.svg",
+        "cost": 300,
+    },
+]
