@@ -2,31 +2,31 @@
     {
         "name": "Azul",
         "image": "profile_pics/blue.svg",
-        "cost": 0,
+        "cost": 0
     },
     {
         "name": "Verde",
         "image": "profile_pics/green.svg",
-        "cost": 0,
+        "cost": 0
     },
     {
         "name": "Rojo",
         "image": "profile_pics/red.svg",
-        "cost": 20,
+        "cost": 20
     },
     {
         "name": "Marrón",
         "image": "profile_pics/brown.svg",
-        "cost": 75,
+        "cost": 75
     },
     {
         "name": "Morado",
         "image": "profile_pics/purple.svg",
-        "cost": 150,
+        "cost": 150
     },
     {
         "name": "Naranja",
         "image": "profile_pics/orange.svg",
-        "cost": 300,
-    },
+        "cost": 300
+    }
 ]
