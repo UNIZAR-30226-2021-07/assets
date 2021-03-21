@@ -39,8 +39,6 @@
         "color": "all",
         "total": 1
     },
-
-
     {
         "name": "Virus de Cerebro",
         "description": "Úsalo para infectar un cerebro, extirparlo, o destruir una vacuna.",
@@ -81,8 +79,6 @@
         "color": "all",
         "total": 4
     },
-
-
     {
         "name": "Medicina de Cerebro",
         "description": "Úsala para curar, vacunar o inmunizar tu cerebro.",
@@ -123,8 +119,6 @@
         "color": "all",
         "total": 4
     },
-
-
     {
         "name": "Transplante",
         "description": "Intercambia un órgano por otro entre dos jugadores cualesquiera. No importa si el color de estos órganos es diferente, ni si están sanos, infectados o vacunados. Sencillamente el jugador cambia el órgano escogido por otro, siempre y cuando ninguno de los dos jugadores tenga dos órganos del mismo color ni éstos estén inmunizados.",
@@ -164,5 +158,5 @@
         "type": "treatment",
         "color": "purple",
         "total": 1
-    },
+    }
 ]
