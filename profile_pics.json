@@ -1,37 +1,37 @@
 [
   {
-    "name": "Defecto",
-    "image": "assets/common/profile_pics/default.svg",
+    "name": "Default",
+    "image": "https://www.hola.com/imagenes/estar-bien/20210217184541/gatos-gestos-lenguaje-significado/0-922-380/gatos-gestos-m.jpg",
     "cost": 0
   },
   {
-    "name": "Azul",
-    "image": "assets/common/profile_pics/blue.svg",
+    "name": "Gato",
+    "image": "https://www.purina.es/gato/purina-one/sites/default/files/2018-06/Mi_gato_no_come (2).jpg",
     "cost": 0
   },
   {
     "name": "Verde",
-    "image": "assets/common/profile_pics/green.svg",
+    "image": "profile_pics/green.svg",
     "cost": 0
   },
   {
     "name": "Rojo",
-    "image": "assets/common/profile_pics/red.svg",
+    "image": "profile_pics/red.svg",
     "cost": 20
   },
   {
     "name": "Marrón",
-    "image": "assets/common/profile_pics/brown.svg",
+    "image": "profile_pics/brown.svg",
     "cost": 75
   },
   {
     "name": "Morado",
-    "image": "assets/common/profile_pics/purple.svg",
+    "image": "profile_pics/purple.svg",
     "cost": 150
   },
   {
     "name": "Naranja",
-    "image": "assets/common/profile_pics/orange.svg",
+    "image": "profile_pics/orange.svg",
     "cost": 300
   }
 ]
