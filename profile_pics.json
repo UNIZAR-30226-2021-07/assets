@@ -1,37 +1,37 @@
 [
   {
-    "name": "Azul",
-    "image": "profile_pics/default.svg",
+    "name": "Defecto",
+    "image": "assets/common/profile_pics/default.svg",
     "cost": 0
   },
   {
     "name": "Azul",
-    "image": "profile_pics/blue.svg",
+    "image": "assets/common/profile_pics/blue.svg",
     "cost": 0
   },
   {
     "name": "Verde",
-    "image": "profile_pics/green.svg",
+    "image": "assets/common/profile_pics/green.svg",
     "cost": 0
   },
   {
     "name": "Rojo",
-    "image": "profile_pics/red.svg",
+    "image": "assets/common/profile_pics/red.svg",
     "cost": 20
   },
   {
     "name": "Marrón",
-    "image": "profile_pics/brown.svg",
+    "image": "assets/common/profile_pics/brown.svg",
     "cost": 75
   },
   {
     "name": "Morado",
-    "image": "profile_pics/purple.svg",
+    "image": "assets/common/profile_pics/purple.svg",
     "cost": 150
   },
   {
     "name": "Naranja",
-    "image": "profile_pics/orange.svg",
+    "image": "assets/common/profile_pics/orange.svg",
     "cost": 300
   }
 ]
