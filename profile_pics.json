@@ -1,7 +1,12 @@
 [
   {
-    "name": "Azul",
-    "image": "profile_pics/blue.svg",
+    "name": "Default",
+    "image": "profile_pics/default.jpg",
+    "cost": 0
+  },
+  {
+    "name": "Gato naranja",
+    "image": "profile_pics/orange.jpg",
     "cost": 0
   },
   {
