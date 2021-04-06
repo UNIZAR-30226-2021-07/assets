@@ -1,6 +1,11 @@
 [
   {
     "name": "Azul",
+    "image": "profile_pics/default.svg",
+    "cost": 0
+  },
+  {
+    "name": "Azul",
     "image": "profile_pics/blue.svg",
     "cost": 0
   },
