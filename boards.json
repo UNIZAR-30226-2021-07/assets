@@ -1,12 +1,12 @@
 [
   {
-    "name": "Azul",
-    "image": "boards/blue.svg",
+    "name": "Verde",
+    "image": "boards/green.svg",
     "cost": 0
   },
   {
-    "name": "Verde",
-    "image": "boards/green.svg",
+    "name": "Azul",
+    "image": "boards/blue.svg",
     "cost": 0
   },
   {
