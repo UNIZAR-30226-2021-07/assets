@@ -75,7 +75,7 @@
     "name": "Virus Comodín",
     "description": "Úsalo para infectar cualquier órgano, extirparlo, o destruir una vacuna.",
     "image": "cards/virus_e.svg",
-    "type": "organ",
+    "type": "virus",
     "color": "all",
     "total": 4
   },
@@ -124,6 +124,7 @@
     "description": "Intercambia un órgano por otro entre dos jugadores cualesquiera. No importa si el color de estos órganos es diferente, ni si están sanos, infectados o vacunados. Sencillamente el jugador cambia el órgano escogido por otro, siempre y cuando ninguno de los dos jugadores tenga dos órganos del mismo color ni éstos estén inmunizados.",
     "image": "cards/especial_operacion.svg",
     "type": "treatment",
+    "treatment_type": "transplant",
     "color": "purple",
     "total": 3
   },
@@ -132,6 +133,7 @@
     "description": "Roba un órgano de otro jugador y añádelo a tu cuerpo. Puedes robar órganos sanos, vacunados o infectados, pero no inmunes. Recuerda que no puedes tener dos órganos del mismo color.",
     "image": "cards/especial_robaorganos.svg",
     "type": "treatment",
+    "treatment_type": "organ_thief",
     "color": "purple",
     "total": 3
   },
@@ -140,6 +142,7 @@
     "description": "Traslada tantos virus como puedas de tus órganos infectados a los órganos de los demás jugadores.No puedes utilizar el contagio sobre órganos vacunados o infectados, sólo podrás contagiar órganos libres.",
     "image": "cards/especial_tos.svg",
     "type": "treatment",
+    "treatment_type": "infection",
     "color": "purple",
     "total": 2
   },
@@ -148,6 +151,7 @@
     "description": "Todos los jugadores, excepto el que utliza el guante, descartan su mano. Al comienzo de su siguiente turno, al no tener cartas, estos jugadores tan solo podrán robar una nueva mano, perdiendo así un turno de juego.",
     "image": "cards/especial_guantes.svg",
     "type": "treatment",
+    "treatment_type": "latex_glove",
     "color": "purple",
     "total": 1
   },
@@ -156,6 +160,7 @@
     "description": "Intercambia todo tu cuerpo por el de otro jugador, incluyendo órganos, virus y vacunas. No importa el número de cartas que cada uno tenga en mesa. Cuando usas esta carta, los órganos inmuniza-dos también son intercambiados.",
     "image": "cards/especial_radiografia.svg",
     "type": "treatment",
+    "treatment_type": "medical_error",
     "color": "purple",
     "total": 1
   }
