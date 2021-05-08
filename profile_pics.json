@@ -33,5 +33,10 @@
     "name": "Naranja",
     "image": "profile_pics/orange.svg",
     "cost": 300
+  },
+  {
+    "name": "BOT",
+    "image": "profile_pics/bot.png",
+    "cost": 0
   }
 ]
