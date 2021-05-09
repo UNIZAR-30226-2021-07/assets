@@ -30,11 +30,6 @@
     "cost": 1000
   },
   {
-    "name": "Naranja",
-    "image": "profile_pics/orange.jpg",
-    "cost": 300
-  },
-  {
     "name": "BOT",
     "image": "profile_pics/bot.png",
     "cost": 0
