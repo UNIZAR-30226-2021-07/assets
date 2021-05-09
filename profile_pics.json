@@ -11,27 +11,27 @@
   },
   {
     "name": "Don gato",
-    "image": "profile_pics/dongato.svg",
+    "image": "profile_pics/dongato.jpg",
     "cost": 0
   },
   {
     "name": "Rojo",
-    "image": "profile_pics/red.svg",
+    "image": "profile_pics/red.jpg",
     "cost": 20
   },
   {
     "name": "Marrón",
-    "image": "profile_pics/brown.svg",
+    "image": "profile_pics/brown.jpg",
     "cost": 75
   },
   {
     "name": "Morado",
-    "image": "profile_pics/purple.svg",
+    "image": "profile_pics/purple.jpg",
     "cost": 150
   },
   {
     "name": "Naranja",
-    "image": "profile_pics/orange.svg",
+    "image": "profile_pics/orange.jpg",
     "cost": 300
   },
   {
