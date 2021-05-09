@@ -5,33 +5,33 @@
     "cost": 0
   },
   {
-    "name": "Gato naranja",
-    "image": "profile_pics/orange.jpg",
+    "name": "Gato andando",
+    "image": "profile_pics/andando.jpg",
     "cost": 0
   },
   {
-    "name": "Verde",
-    "image": "profile_pics/green.svg",
-    "cost": 0
-  },
-  {
-    "name": "Rojo",
-    "image": "profile_pics/red.svg",
+    "name": "Pirata",
+    "image": "profile_pics/pirata.jpg",
     "cost": 20
   },
   {
     "name": "Marrón",
-    "image": "profile_pics/brown.svg",
+    "image": "profile_pics/brown.jpg",
     "cost": 75
   },
   {
     "name": "Morado",
-    "image": "profile_pics/purple.svg",
+    "image": "profile_pics/purple.jpg",
     "cost": 150
   },
   {
+    "name": "Don gato",
+    "image": "profile_pics/dongato.jpg",
+    "cost": 1000
+  },
+  {
     "name": "Naranja",
-    "image": "profile_pics/orange.svg",
+    "image": "profile_pics/orange.jpg",
     "cost": 300
   },
   {
