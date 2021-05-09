@@ -10,11 +10,6 @@
     "cost": 0
   },
   {
-    "name": "Don gato",
-    "image": "profile_pics/dongato.jpg",
-    "cost": 0
-  },
-  {
     "name": "Pirata",
     "image": "profile_pics/pirata.jpg",
     "cost": 20
@@ -28,6 +23,11 @@
     "name": "Morado",
     "image": "profile_pics/purple.jpg",
     "cost": 150
+  },
+  {
+    "name": "Don gato",
+    "image": "profile_pics/dongato.jpg",
+    "cost": 1000
   },
   {
     "name": "Naranja",
