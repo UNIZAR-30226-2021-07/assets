@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title>Websocket Test</title>
+<script src="https://cdn.socket.io/3.1.3/socket.io.min.js" integrity="sha384-cPwlPLvBTa3sKAgddT6krw0cJat7egBga3DJepJyrLl4Q9/5WLra3rrnMcyTyOnh" crossorigin="anonymous"></script>
+    <style>
+body {
+ background-image: url("./pirata.png");
+}
+    </style>
+  </head>
+  <body>
+      <form id="change-user" action="">
+        <label for="user-num">Choose a test user:</label>
+        <select name="user-num" id="user-num">
+          <option value=1>test_user1</option>
+          <option value=2>test_user2</option>
+          <option value=3>test_user3</option>
+          <option value=4>test_user4</option>
+          <option value=5>test_user5</option>
+          <option value=6>test_user6</option>
+        </select>
+        <button>Connect</button>
+      </form>
+    <ul id="messages"></ul>
+    <form id="form" action="">
+      <input id="input" autocomplete="off" /><button>Send</button>
+    </form>
+    <button id="search-room">Search room</button>
+    <button id="create-room">Create room</button>
+    <button id="start-game">Start game</button>
+    <button id="pause-game">Pause game</button>
+    <button id="unpause-game">Unpause game</button>
+    <button id="leave-room">Leave room</button>
+    <form id="join-room-form" action="">
+      <input id="code-input" autocomplete="off" /><button>Join room</button>
+    </form>
+    <pre id="update-display"></pre>
+
+    <script type="text/javascript" src="websockets.js"></script>
+    <script>
+      var user_num = document.getElementById('user-num');
+      var change_user = document.getElementById('change-user');
+      change_user.addEventListener('submit', function(e) {
+          e.preventDefault();
+          let num = user_num.value;
+          let data = new URLSearchParams();
+          data.append(`email`, `test_user${num}@gmail.com`);
+          data.append(`password`, `whatever${num}`);
+          setupWebsockets(data);
+      });
+    </script>
+  </body>
+</html>
