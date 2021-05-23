@@ -2,7 +2,7 @@
   {
     "name": "Cerebro",
     "description": "¡Es tu cerebro!",
-    "image": "cards/cuerpo_cerebro.svg",
+    "image": "cards/cuerpo_cerebro.png",
     "type": "organ",
     "color": "blue",
     "total": 5
@@ -10,7 +10,7 @@
   {
     "name": "Corazón",
     "description": "¡Es tu corazón!",
-    "image": "cards/cuerpo_corazon.svg",
+    "image": "cards/cuerpo_corazon.png",
     "type": "organ",
     "color": "red",
     "total": 5
@@ -18,7 +18,7 @@
   {
     "name": "Estómago",
     "description": "¡Es tu estómago!",
-    "image": "cards/cuerpo_estomago.svg",
+    "image": "cards/cuerpo_estomago.png",
     "type": "organ",
     "color": "green",
     "total": 5
@@ -26,7 +26,7 @@
   {
     "name": "Esqueleto",
     "description": "¡Es tu esqueleto!",
-    "image": "cards/cuerpo_hueso.svg",
+    "image": "cards/cuerpo_hueso.png",
     "type": "organ",
     "color": "yellow",
     "total": 5
@@ -34,7 +34,7 @@
   {
     "name": "Órgano Comodín",
     "description": "¡Es cualquier parte de tu cuerpo!",
-    "image": "cards/cuerpo_full.svg",
+    "image": "cards/cuerpo_full.png",
     "type": "organ",
     "color": "all",
     "total": 1
@@ -42,7 +42,7 @@
   {
     "name": "Virus de Cerebro",
     "description": "Úsalo para infectar un cerebro, extirparlo, o destruir una vacuna.",
-    "image": "cards/virus_a.svg",
+    "image": "cards/virus_a.png",
     "type": "virus",
     "color": "blue",
     "total": 4
@@ -50,7 +50,7 @@
   {
     "name": "Virus de Corazón",
     "description": "Úsalo para infectar un corazón, extirparlo, o destruir una vacuna.",
-    "image": "cards/virus_b.svg",
+    "image": "cards/virus_b.png",
     "type": "virus",
     "color": "red",
     "total": 4
@@ -58,7 +58,7 @@
   {
     "name": "Virus de Estómago",
     "description": "Úsalo para infectar un estómago, extirparlo, o destruir una vacuna.",
-    "image": "cards/virus_d.svg",
+    "image": "cards/virus_d.png",
     "type": "virus",
     "color": "green",
     "total": 4
@@ -66,7 +66,7 @@
   {
     "name": "Virus de Esqueleto",
     "description": "Úsalo para infectar un esqueleto, extirparlo, o destruir una vacuna.",
-    "image": "cards/virus_c.svg",
+    "image": "cards/virus_c.png",
     "type": "virus",
     "color": "yellow",
     "total": 4
@@ -74,7 +74,7 @@
   {
     "name": "Virus Comodín",
     "description": "Úsalo para infectar cualquier órgano, extirparlo, o destruir una vacuna.",
-    "image": "cards/virus_e.svg",
+    "image": "cards/virus_e.png",
     "type": "virus",
     "color": "all",
     "total": 4
@@ -82,7 +82,7 @@
   {
     "name": "Medicina de Cerebro",
     "description": "Úsala para curar, vacunar o inmunizar tu cerebro.",
-    "image": "cards/medicina_pastis.svg",
+    "image": "cards/medicina_pastis.png",
     "type": "medicine",
     "color": "blue",
     "total": 4
@@ -90,7 +90,7 @@
   {
     "name": "Medicina de Corazón",
     "description": "Úsala para curar, vacunar o inmunizar tu corazón.",
-    "image": "cards/medicina_jeringuilla.svg",
+    "image": "cards/medicina_jeringuilla.png",
     "type": "medicine",
     "color": "red",
     "total": 4
@@ -98,7 +98,7 @@
   {
     "name": "Medicina de Estómago",
     "description": "Úsala para curar, vacunar o inmunizar tu estómago.",
-    "image": "cards/medicina_jarabe.svg",
+    "image": "cards/medicina_jarabe.png",
     "type": "medicine",
     "color": "green",
     "total": 4
@@ -106,7 +106,7 @@
   {
     "name": "Medicina de Esqueleto",
     "description": "Úsala para curar, vacunar o inmunizar tu esqueleto.",
-    "image": "cards/medicina_tiritas.svg",
+    "image": "cards/medicina_tiritas.png",
     "type": "medicine",
     "color": "yellow",
     "total": 4
@@ -114,7 +114,7 @@
   {
     "name": "Medicina Comodín",
     "description": "Úsala para curar, vacunar o inmunizar cualquier órgano.",
-    "image": "cards/medicina_medikit.svg",
+    "image": "cards/medicina_medikit.png",
     "type": "medicine",
     "color": "all",
     "total": 4
@@ -122,7 +122,7 @@
   {
     "name": "Transplante",
     "description": "Intercambia un órgano por otro entre dos jugadores cualesquiera. No importa si el color de estos órganos es diferente, ni si están sanos, infectados o vacunados. Sencillamente el jugador cambia el órgano escogido por otro, siempre y cuando ninguno de los dos jugadores tenga dos órganos del mismo color ni éstos estén inmunizados.",
-    "image": "cards/especial_operacion.svg",
+    "image": "cards/especial_operacion.png",
     "type": "treatment",
     "treatment_type": "transplant",
     "color": "purple",
@@ -131,7 +131,7 @@
   {
     "name": "Ladrón de Órganos",
     "description": "Roba un órgano de otro jugador y añádelo a tu cuerpo. Puedes robar órganos sanos, vacunados o infectados, pero no inmunes. Recuerda que no puedes tener dos órganos del mismo color.",
-    "image": "cards/especial_robaorganos.svg",
+    "image": "cards/especial_robaorganos.png",
     "type": "treatment",
     "treatment_type": "organ_thief",
     "color": "purple",
@@ -140,7 +140,7 @@
   {
     "name": "Contagio",
     "description": "Traslada tantos virus como puedas de tus órganos infectados a los órganos de los demás jugadores.No puedes utilizar el contagio sobre órganos vacunados o infectados, sólo podrás contagiar órganos libres.",
-    "image": "cards/especial_tos.svg",
+    "image": "cards/especial_tos.png",
     "type": "treatment",
     "treatment_type": "infection",
     "color": "purple",
@@ -149,7 +149,7 @@
   {
     "name": "Guante de Látex",
     "description": "Todos los jugadores, excepto el que utliza el guante, descartan su mano. Al comienzo de su siguiente turno, al no tener cartas, estos jugadores tan solo podrán robar una nueva mano, perdiendo así un turno de juego.",
-    "image": "cards/especial_guantes.svg",
+    "image": "cards/especial_guantes.png",
     "type": "treatment",
     "treatment_type": "latex_glove",
     "color": "purple",
@@ -158,7 +158,7 @@
   {
     "name": "Error Médico",
     "description": "Intercambia todo tu cuerpo por el de otro jugador, incluyendo órganos, virus y vacunas. No importa el número de cartas que cada uno tenga en mesa. Cuando usas esta carta, los órganos inmuniza-dos también son intercambiados.",
-    "image": "cards/especial_radiografia.svg",
+    "image": "cards/especial_radiografia.png",
     "type": "treatment",
     "treatment_type": "medical_error",
     "color": "purple",
