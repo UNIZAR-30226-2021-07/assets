@@ -1,32 +1,32 @@
 [
   {
-    "name": "Verde",
-    "image": "boards/green.svg",
+    "name": "Clásico",
+    "image": "boards/classic.jpg",
     "cost": 0
   },
   {
-    "name": "Azul",
-    "image": "boards/blue.svg",
+    "name": "Pirata",
+    "image": "boards/pirate.png",
     "cost": 0
   },
   {
-    "name": "Rojo",
-    "image": "boards/red.svg",
+    "name": "Astronauta",
+    "image": "boards/astronaut.png",
+    "cost": 0
+  },
+  {
+    "name": "Gatitos",
+    "image": "boards/cute.png",
     "cost": 20
   },
   {
-    "name": "Marrón",
-    "image": "boards/brown.svg",
+    "name": "Sardinas",
+    "image": "boards/sardines.png",
     "cost": 75
   },
   {
-    "name": "Morado",
-    "image": "boards/purple.svg",
+    "name": "Yoga",
+    "image": "boards/yoga.png",
     "cost": 150
-  },
-  {
-    "name": "Naranja",
-    "image": "boards/orange.svg",
-    "cost": 300
   }
 ]
