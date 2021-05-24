@@ -1,38 +1,38 @@
 [
   {
     "name": "Default",
-    "image": "profile_pics/default.jpg",
+    "image": "profile_pics/default.png",
     "cost": 0
   },
   {
-    "name": "Gato andando",
-    "image": "profile_pics/andando.jpg",
+    "name": "Cowboy",
+    "image": "profile_pics/cowboy.png",
     "cost": 0
   },
   {
     "name": "Pirata",
-    "image": "profile_pics/pirata.jpg",
+    "image": "profile_pics/pirata.png",
     "cost": 20
   },
   {
-    "name": "Marrón",
-    "image": "profile_pics/brown.jpg",
+    "name": "Alien",
+    "image": "profile_pics/alien.png",
     "cost": 75
   },
   {
-    "name": "Morado",
-    "image": "profile_pics/purple.jpg",
+    "name": "Edna",
+    "image": "profile_pics/edna.png",
     "cost": 150
   },
   {
-    "name": "Don gato",
-    "image": "profile_pics/dongato.jpg",
-    "cost": 1000
+    "name": "Tomás",
+    "image": "profile_pics/tomas.png",
+    "cost": 300
   },
   {
-    "name": "Naranja",
-    "image": "profile_pics/orange.jpg",
-    "cost": 300
+    "name": "Don gato",
+    "image": "profile_pics/dongato.png",
+    "cost": 1000
   },
   {
     "name": "BOT",
